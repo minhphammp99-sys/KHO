@@ -6,24 +6,27 @@
    "tag": ["Oanh Tạ", "nhạc"],
    "category": "songs",
    "age": "3-6",
-    "path": "songs/Cô Dâu Không Phải Em Oanh Tạ.mp3",
-  }
+    "path": "songs/Cô Dâu Không Phải Em Oanh Tạ.mp3"
+  },
   {
     "id": "002",
    "name": "Nơi Ấy Con Tìm Về",
    "tag": ["Hồ Quang Hiếu", "nhạc"],
    "category": "songs",
    "age": "3-6",
-    "path": "songs/Nơi Ấy Con Tìm Về.mp3",
-  }
+    "path": "songs/Nơi Ấy Con Tìm Về.mp3"
+  },
   {
     "id": "003",
    "name": "Kiếp Sau Mong Gặp Em Sớm Hơn",
    "tag": ["Hồ Quang Hiếu", "nhạc"],
    "category": "songs",
    "age": "3-6",
-    "path": "songs/Kiếp Sau Mong Gặp Em Sớm Hơn.mp3",
+    "path": "songs/Kiếp Sau Mong Gặp Em Sớm Hơn.mp3"
   }
+]
+
+
   
     
     
